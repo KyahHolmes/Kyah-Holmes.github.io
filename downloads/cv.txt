@@ -1,0 +1,22 @@
+Name: Kyah Leroy Holmes
+Date of Birth: 02/07/2003
+
+Eductaion
+	GCSE
+		Mathematics - 5
+		English Literature - 4
+		English Language - 5
+	BTEC Level 3 Diploma
+		IT(QCF) Merit | Merit
+	BTEC Level 3 National Foundation Diploma
+		Applied Science - Pass
+
+Employment
+	Loomis
+		Cash Processor
+		
+Coding Languages
+	Python
+	JavaScript
+	HTML
+	CSS
